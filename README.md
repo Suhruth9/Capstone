@@ -1,3 +1,3 @@
 
-Partial code for the capstone project
+Partial implementation of the PixelRNN paper. (In-Progress)
 
